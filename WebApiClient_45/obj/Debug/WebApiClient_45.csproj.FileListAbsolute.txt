@@ -1,0 +1,10 @@
+R:\WebApiClient\WebApiClient_45\bin\Debug\WebApiClient.exe.config
+R:\WebApiClient\WebApiClient_45\obj\Debug\WebApiClient.exe
+R:\WebApiClient\WebApiClient_45\obj\Debug\WebApiClient.pdb
+R:\WebApiClient\WebApiClient_45\bin\Debug\WebApiClient.exe
+R:\WebApiClient\WebApiClient_45\bin\Debug\WebApiClient.pdb
+R:\WebApiClient\WebApiClient_45\bin\Debug\Newtonsoft.Json.dll
+R:\WebApiClient\WebApiClient_45\bin\Debug\System.Net.Http.Formatting.dll
+R:\WebApiClient\WebApiClient_45\bin\Debug\Newtonsoft.Json.xml
+R:\WebApiClient\WebApiClient_45\bin\Debug\System.Net.Http.Formatting.xml
+R:\WebApiClient\WebApiClient_45\obj\Debug\WebApiClient_45.csprojResolveAssemblyReference.cache
