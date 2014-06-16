@@ -13,5 +13,5 @@ Web Api Client Example include 3 project
 
 ##WebApiClient_40
 * .NET 4.0
-* *Nuget package : **Microsoft HTTP Client Libraries**
+* Nuget package : **Microsoft HTTP Client Libraries**
 
